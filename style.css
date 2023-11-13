@@ -148,3 +148,9 @@ footer {
   color: #fff;
   transition: 0.5s;
 }
+
+
+.no-ritmo-header, .box-texto-main, .img01, .img02, .img03, .img04, .button-mais,
+icon01, icon02, icon03, icon04 {
+  visibility: hidden;
+}
